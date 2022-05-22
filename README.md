@@ -1,8 +1,8 @@
 ## Simple React-Native Todo app
 
-You can download the Universal apk [here](https://raw.githubusercontent.com/amirmasadi/todoapp/main/assets/react-native-todo-app.jpg).
+You can download the Universal apk [here](https://drive.google.com/file/d/1Q3b4IQGKP-tmdvJBlXZC2ZjlauUMK4uA/view?usp=sharing).
 
-![alt text]()
+![react-native todo app screenshot](https://raw.githubusercontent.com/amirmasadi/todoapp/main/assets/react-native-todo-app.jpg)
 
 ### How to use
 
